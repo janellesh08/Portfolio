@@ -253,6 +253,15 @@ input, select, textarea {
 		width: 80%;
 		border: goldenrod solid 1px;
 	}
+	#eventureTile{
+		padding: 50px;
+	}
+
+	#eventureTile img{
+		height: 80%;
+		width: 80%;
+		border: goldenrod solid 1px;
+	}
 
 	#gemsTile{
 		padding: 50px;
